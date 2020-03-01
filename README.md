@@ -2,7 +2,7 @@
 
 # Travis Stanifer
 
-<h1>First Heading</h1>
+<p>Hello, World</p>
 
 ## Projects
 Text
