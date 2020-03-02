@@ -15,4 +15,4 @@ Hey there! I'm Travis, an iOS Developer located in Lake Forest, CA specializing 
 
 <h2 align="center">Projects</h2>
 
-<h4>XLaunch</h4>
+<p style="font-size:160%;">This is a paragraph.</p>
